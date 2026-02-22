@@ -1,0 +1,113 @@
+/* body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f6ff;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav {
+    background-color: #1e3a8a;
+    padding: 12px;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    margin-top: 30px;
+    color: #1e3a8a;
+}
+
+input {
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    width: 220px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #2563eb;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #1d4ed8;
+}
+
+#output {
+    margin-top: 20px;
+    font-weight: bold;
+} */
+ body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f6ff;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Navigation bar */
+nav {
+    background-color: #1e3a8a;
+    padding: 12px;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+/* Headings */
+h1, h2 {
+    margin-top: 20px;
+    color: #1e3a8a;
+}
+
+/* Inputs */
+input, select {
+    margin: 8px auto;
+    padding: 8px;
+}
+
+/* Buttons */
+button,
+input[type="button"] {
+    padding: 10px;
+    background-color: #2563eb;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover,
+input[type="button"]:hover {
+    background-color: #1d4ed8;
+}
+
+/* Output */
+#output {
+    margin-top: 15px;
+    font-weight: bold;
+}
